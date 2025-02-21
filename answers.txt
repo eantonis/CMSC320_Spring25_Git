@@ -6,3 +6,11 @@ Q1: Why might we consider using Git?
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could apply to the marketing field. For example, using data science to figure out if one ad is attracting more customers than the other and then narrowing that down to some specific details that make it more sucessful.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: The main difference is that rebasing gets rid of the history (sorta) and adds stuff from one branch to another, so it's cleaner/easier to follow. While merging keeps the history and smooshes two branches together, and usually has a more complicated history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: The cold weather going away.
