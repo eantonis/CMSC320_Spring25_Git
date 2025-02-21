@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+   Answer: It helps keep track of changes to code. It also gives very detailed updates/information about each commit (like who commited it, what time it was commited, etc.). Also, it's just very widley used and a lot of people are familiar with it.
+
+
